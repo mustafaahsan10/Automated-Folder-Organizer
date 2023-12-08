@@ -1,2 +1,2 @@
 # Automated-Folder-Organizer
-A Python script for organizing files in a directory by extension.
+A Python script for organizing files in a directory by extension. This script automatically scans a specified directory, identifies all file extensions, creates subfolders for each unique extension, and then moves each file into its corresponding subfolder. It's particularly useful for organizing cluttered folders like Downloads, where files of various types accumulate over time.
